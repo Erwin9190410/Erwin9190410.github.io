@@ -1,0 +1,158 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="erwin9190410.github.io" resolutions="1x,2x" timestamp="1611312875430">
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:illustration:watercolor"/>
+    <file name="loading.gif" crc="3815509949" ref="index:illustration:watercolor"/>
+    <file name="cactus.jpg" crc="3936421572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus_2x.jpg" crc="4269525549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road.jpg" crc="3870041364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road_2x.jpg" crc="400381492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="48470008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees_2x.jpg" crc="4053297467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0542.jpg" crc="4246876138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="epson068 2.jpg" crc="153918405" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="epson068 2_2x.jpg" crc="206464111" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="epson069 2.jpg" crc="128409904" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="epson069 2_2x.jpg" crc="105979885" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="epson071 2.jpg" crc="4203759238" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="epson071 2_2x.jpg" crc="4198825804" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0541.jpg" crc="4066475039" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0541_2x.jpg" crc="517894169" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_05422.jpg" crc="422267390" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0542_2x.jpg" crc="515988003" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0543.jpg" crc="393386114" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0543_2x.jpg" crc="396855837" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0544.jpg" crc="4249057433" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0544_2x.jpg" crc="405279666" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0548.jpg" crc="3792395616" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0548_2x.jpg" crc="3895083317" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0551.jpg" crc="42389492" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0551_2x.jpg" crc="3788440229" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="painting" alt=""/>
+    </file>
+    <file name="img_0853.jpg" crc="4240398933" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="img_0853_2x.jpg" crc="139400370" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="received_1240736242617007.jpg" crc="338171595" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="received_1240736242617007_2x.jpg" crc="4172608076" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="人物水彩顏料潑灑.jpg" crc="3929487586" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="火車.jpg" crc="4132114853" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="火車_2x.jpg" crc="4197144506" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="黑人女孩.jpg" crc="4043829134" seo="true" ref="watercolor">
+      <caption webpage="watercolor" alt=""/>
+      <caption webpage="animation" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="164132084" ref="index"/>
+    <file name="2.css" crc="87374343" ref="2"/>
+    <file name="1.css" crc="87374343" ref="1"/>
+    <file name="animation.css" crc="285700492" ref="animation"/>
+    <file name="watercolor.css" crc="3843020176" ref="watercolor"/>
+    <file name="illustration.css" crc="3822065323" ref="illustration"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="museutils.js" crc="3803043152" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="museconfig.js" crc="380897831" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="require.js" crc="4157109226" ref="index:1:2:animation:illustration:watercolor"/>
+    <file name="webpro.js" crc="242022427" ref="index:illustration:watercolor"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:illustration:watercolor"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:illustration:watercolor"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:illustration:watercolor"/>
+  </folder>
+  <file name="index.html" crc="3859894233" seo="true" mt="1611311324293" redirect="true"/>
+  <file name="1.html" crc="4087148472" seo="true" mt="1611309018246" redirect="false"/>
+  <file name="2.html" crc="243054210" seo="true" mt="1611309018248" redirect="false"/>
+  <file name="animation.html" crc="211056937" seo="true" mt="1611311194823" redirect="true"/>
+  <file name="illustration.html" crc="269589515" seo="true" mt="1611310208447" redirect="true"/>
+  <file name="watercolor.html" crc="4019905107" seo="true" mt="1611310637338" redirect="true"/>
+</manifest>
